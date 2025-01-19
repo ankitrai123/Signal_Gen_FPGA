@@ -1,0 +1,3 @@
+C:/Users/burug/ip/signal_uart/build/CMakeFiles/signal_uart.elf.dir
+C:/Users/burug/ip/signal_uart/build/CMakeFiles/edit_cache.dir
+C:/Users/burug/ip/signal_uart/build/CMakeFiles/rebuild_cache.dir
